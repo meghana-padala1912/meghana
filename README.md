@@ -6,3 +6,6 @@ food
 
 
 chicken
+
+
+sea
